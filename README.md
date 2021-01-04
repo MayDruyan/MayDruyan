@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **MayDruyan/MayDruyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome to My GitHub Page!  👋 👋
+
+Hi! This is my GitHub page, welcome :)
+My name is May Druyan and I am a software developer with Bsc. in Computer Science and B.A. in Entrepreneurship.
+In this page I have a few of my projects, written in different languages and frameworks such as Java, Javascript, C#, Node.js, Android and more.
+
